@@ -4,7 +4,7 @@ body{
 
 .FundoP{
     background-color:rgb(11, 54, 119);
-    background-size:auto;
+    background-size:cover;
     width: auto;
     height: auto;
     padding: 8px 2%;
@@ -112,8 +112,7 @@ img {
 }
 
 .card {
-    float: left;
-    margin-top: 20px;
+    margin: auto;
     border-radius: 10px;
-    margin-left: 80px;
+    margin-bottom: 10px;
 }
