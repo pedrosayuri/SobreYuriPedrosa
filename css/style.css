@@ -43,13 +43,13 @@ footer {
     width: 250px;
     height: 250px;
     border-radius: 2000px;
-    background-color: rgba(180, 175, 175, 0.555);
+    background-color: rgb(255, 255, 255);
     margin: auto;
     margin-bottom: -10px;
 }
 
 .fundo2 {
-    background-color: rgba(180, 175, 175, 0.555);
+    background-color: rgb(255, 255, 255);
     margin-top: 20px;
     padding: 10px;
     margin-left: auto;
