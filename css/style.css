@@ -1,9 +1,12 @@
 body{
-    background-color: yellow;
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/pexels-mnm-zameer-3308588.jpg);
+    background-size: cover;
 }
 
 .FundoP{
-    background-color:rgb(11, 54, 119);
+    background-color: rgba(0, 0, 0, 0.623);
     background-size:cover;
     width: auto;
     height: auto;
@@ -15,7 +18,7 @@ body{
 }
 
 .FundoP2{
-    background-color:rgb(11, 54, 119);
+    background-color: rgba(0, 0, 0, 0.623);
     background-size:auto;
     width: auto;
     height: auto;
@@ -26,22 +29,27 @@ body{
     margin-bottom: 10px;
 }
 
+#Textofim{
+    color: white ;
+}
+
 header,
 footer {
-    background-color: #d9d9d9;
+    background-color: rgba(255, 255, 255, 0);
+    width: 100%;
 }
 
 .fundo1 {
     width: 250px;
     height: 250px;
     border-radius: 2000px;
-    background-color: tomato;
+    background-color: rgba(180, 175, 175, 0.555);
     margin: auto;
     margin-bottom: -10px;
 }
 
 .fundo2 {
-    background-color: tomato;
+    background-color: rgba(180, 175, 175, 0.555);
     margin-top: 20px;
     padding: 10px;
     margin-left: auto;
@@ -70,7 +78,7 @@ img {
 }
 
 #logo {
-    width: 120px;
+    width: 150px;
     margin: 30px 0;
     height: auto;
 }
@@ -109,6 +117,7 @@ img {
 
 #HP{
     text-align: center;
+    color: white;
 }
 
 .card {
